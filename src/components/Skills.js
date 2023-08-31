@@ -34,7 +34,7 @@ export const Skills =()=>{
                     <div className="col-12">
                         <div className="skill-bx wow zoomIn">
                             <h2>Skills</h2>
-                            <p>I possess a comprehensive skill set in frontend and backend development, combined with a keen understanding of UI/UX design principles,<br></br> enabling me to create functional and visually appealing digital solutions.</p>
+                            <p>I possess a comprehensive skill set in frontend and backend development, combined with a keen understanding of UI/UX design,<br></br> enabling me to create functional and visually appealing digital solutions.</p>
                             <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                                 <div className="item">
                                     <img src={meter1} alt="Image" />
